@@ -1,0 +1,15 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+build/*
+!build/NetGuard.ico
+dist/
+release/
+logs/
+*.log
+*.jsonl
+*.pcap
+*.pcapng
+settings.json
+.env
