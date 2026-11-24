@@ -1,0 +1,30 @@
+{
+  "name": "Кең радар",
+  "navigation": "right",
+  "positions": {
+    "controls": [
+      0,
+      0,
+      1,
+      2
+    ],
+    "metrics": [
+      2,
+      0,
+      1,
+      1
+    ],
+    "radar": [
+      1,
+      0,
+      1,
+      2
+    ],
+    "events": [
+      2,
+      1,
+      1,
+      1
+    ]
+  }
+}
